@@ -50,7 +50,7 @@ You need Python 3.10+ and a free Gemini API key from [aistudio.google.com](https
 
 ```powershell
 git clone https://github.com/mj65825/ai-chatbot.git
-cd cybersecurity-portfolio\Projects\AI-Chatbot
+cd ai-chatbot
 
 python -m venv .venv
 .venv\Scripts\activate
